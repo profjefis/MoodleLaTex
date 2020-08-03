@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+ 
+<question type="category">
+  <category>
+    <text>$module$/Mudanças de Fase - Discursiva - Médio</text>
+  </category>
+</question>
+ 
+<question type="essay">
+  <name>
+    <text>MDF01DM-210</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Uma das extremidades de uma barra metálica isolada é mantida a 100 ºC, e a outra extremidade é mantida a 0 ºC por uma mistura de gelo e água. A barra tem 60,0 cm de comprimento e uma seção reta com área igual a 1,5 \(cm^{2}\). O calor conduzido pela barra produz a fusão de 9,0 g de gelo em 10 minutos. Calcule a condutividade térmica do metal em W/m.K. Dado: calor latente de fusão da água = \(3,5\times 10^{5}\) J/kg.</p>]]></text>
+  </questiontext>
+  <defaultgrade>2</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>noinline</responseformat>
+  <responsefieldlines>15</responsefieldlines>
+  <attachments>1</attachments>
+  <attachmentsrequired>1</attachmentsrequired>
+  <graderinfo format="html"><text/></graderinfo>
+  <responsetemplate format="html"><text/></responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>MDF02DM-225/20</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>Uma barra de alumínio (K = 0,5 cal/s.cm.ºC) está em contato, numa extremidade, com gelo em fusão e, na outra, com vapor de água em ebulição sob pressão normal. Seu comprimento é 25 cm, e a seção transversal tem 5,0 \(cm^{2}\) de área. Sendo a barra isolada lateralmente e dados os calores latentes de fusão do gelo e de vaporização da água (\(L_{F}\) = 80 cal/g ; \(L_{V}\) = 540 cal/g), determine:<BR/> (a) a massa do gelo, em gramas, que se funde em meia hora;<BR/> (b) a temperatura, em ºC, em uma seção da barra a 5,0 cm da extremidade fria.</p>]]></text>
+  </questiontext>
+  <defaultgrade>2</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>noinline</responseformat>
+  <responsefieldlines>15</responsefieldlines>
+  <attachments>1</attachments>
+  <attachmentsrequired>1</attachmentsrequired>
+  <graderinfo format="html"><text/></graderinfo>
+  <responsetemplate format="html"><text/></responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>MDF03DM-50/2,4</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p><B>(UFG GO/2014)</B> O corpo humano consegue adaptar-se a diferentes temperaturas externas, mantendo sua temperatura aproximadamente constante em 37 ºC por meio da produção de energia por processos metabólicos e trocas de calor com o ambiente. Em uma situação típica, em que um indivíduo esteja em repouso em um ambiente a 25 ºC, ele libera calor para o ambiente por condução térmica a uma taxa de 15 J/s e por evaporação de água por meio da pele a uma taxa de 60 kJ/hora.<BR/> Considerando o exposto, calcule:<BR/> Dados:<BR/> Calor latente de evaporação da água à 37 ºC: L = 2400 kJ/kg.<BR/> Densidade da água: d = 1 kg/litro.<BR/> a) a quantidade de água, em ml, que o indivíduo deve ingerir para compensar a perda por evaporação em duas horas.<BR/> b) a espessura média da pele do indivíduo, em mm, considerando a área total da superfície da sua pele igual a 1,5 \(m^{2}\) e a condutibilidade térmica (k) da mesma igual a \(2\times 10^{3}\) W/m.ºC.</p>]]></text>
+  </questiontext>
+  <defaultgrade>2</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>noinline</responseformat>
+  <responsefieldlines>15</responsefieldlines>
+  <attachments>1</attachments>
+  <attachmentsrequired>1</attachmentsrequired>
+  <graderinfo format="html"><text/></graderinfo>
+  <responsetemplate format="html"><text/></responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>MDF04DM-80/2,0</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p><B>(UFG GO/2013)</B> Uma caixa de isopor em forma de paralelepípedo de dimensões 0,4 x 0,6 x 0,4 m contém 9 kg de gelo em equilíbrio térmico com água. Esse sistema é fechado e mantido em uma sala cuja temperatura ambiente é de 30º C. Tendo em vista que o gelo é completamente derretido após um intervalo de 10 horas, calcule:<BR/> Dados:<BR/> 1 cal \(\approx \) 4,0 J.<BR/> calor latente de fusão do gelo = 80 cal/g.<BR/> a) o fluxo de calor, em watt, que o conteúdo da caixa de isopor recebe até derreter o gelo;<BR/> b) a espessura da caixa de isopor em centímetros. Utilize o coeficiente de transmissão de calor do isopor \(4,0\times 10^{–2}\) W/m.ºC.</p>]]></text>
+  </questiontext>
+  <defaultgrade>2</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>noinline</responseformat>
+  <responsefieldlines>15</responsefieldlines>
+  <attachments>1</attachments>
+  <attachmentsrequired>1</attachmentsrequired>
+  <graderinfo format="html"><text/></graderinfo>
+  <responsetemplate format="html"><text/></responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>MDF05DM-6,73</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p><B>(UDESC-SC)</B> Um sistema para aquecer água, usando energia solar, é instalado em uma casa para fornecer 400 L de água quente a 60 ºC durante um dia. A água é fornecida para casa a 15 ºC e a potência média por unidade de área dos raios solares é 130 \(W/m^{2}\). Calcule a área da superfície dos painéis solares necessários em \(m^{2}\).<BR/> Dados:<BR/> Calor específico da água 4200 J/Kg.ºC.<BR/> Densidade da água 1 kg/L.</p>]]></text>
+  </questiontext>
+  <defaultgrade>2</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>noinline</responseformat>
+  <responsefieldlines>15</responsefieldlines>
+  <attachments>1</attachments>
+  <attachmentsrequired>1</attachmentsrequired>
+  <graderinfo format="html"><text/></graderinfo>
+  <responsetemplate format="html"><text/></responsetemplate>
+</question>
+ 
+</quiz>

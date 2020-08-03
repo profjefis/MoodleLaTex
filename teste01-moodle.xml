@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+ 
+<question type="category">
+  <category>
+    <text>$module$/Teste Dissertativa</text>
+  </category>
+</question>
+ 
+<question type="essay">
+  <name>
+    <text>Test3</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>O texto do teste 3 está aqui.</p>]]></text>
+  </questiontext>
+  <defaultgrade>2</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>noinline</responseformat>
+  <responsefieldlines>15</responsefieldlines>
+  <attachments>1</attachments>
+  <attachmentsrequired>1</attachmentsrequired>
+  <graderinfo format="html"><text/></graderinfo>
+  <responsetemplate format="html"><text/></responsetemplate>
+</question>
+<question type="essay">
+  <name>
+    <text>Test4</text>
+  </name>
+  <questiontext format="html">
+    <text><![CDATA[<p>O texto do teste 4 está aqui.</p>]]></text>
+  </questiontext>
+  <defaultgrade>2</defaultgrade>
+  <generalfeedback format="html"><text/></generalfeedback>
+  <penalty>0.1000000</penalty>
+  <hidden>0</hidden>
+  <responserequired>0</responserequired>
+  <responseformat>noinline</responseformat>
+  <responsefieldlines>15</responsefieldlines>
+  <attachments>1</attachments>
+  <attachmentsrequired>1</attachmentsrequired>
+  <graderinfo format="html"><text/></graderinfo>
+  <responsetemplate format="html"><text/></responsetemplate>
+</question>
+ 
+</quiz>
